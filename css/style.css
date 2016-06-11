@@ -1,0 +1,25 @@
+h1 {
+	color: black;
+	font-size: 35px
+}
+
+.dibBase {
+	border-color: blue;
+	border-left: 50px;
+}
+
+.margenComp{
+	margin-top: 150px;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-bottom: 150px
+}
+
+.margenExterior {
+	padding: 100px;
+	padding-top: 50px!important;
+}
+
+.parrafoEspacio {
+	padding: 50px;
+}
